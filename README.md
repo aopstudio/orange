@@ -6,7 +6,9 @@ pip install -r requirements.txt
 ```
 ## Folders and files
 `instance_output/train.txt` is the pre-training corpus for entity generation(because of the file size limit in github, please download this file from https://drive.google.com/file/d/1tC4mNlDxzywnTdrqfRSvXDCZiTG9kVLb/view?usp=sharing)
+
 `relation_output/train.txt` is the pre-training corpus for relation generation
+
 `output/validation.txt` is the OpenRelation600 dataset
 
 ## Pre-train
